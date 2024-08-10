@@ -71,6 +71,9 @@ header {
 
 }
 
+.heder-logo {
+    margin-right: 76px;
+}
 .logo-2 {
     font-family: "Raleway", sans-serif;
     font-weight: 700;
@@ -79,7 +82,7 @@ header {
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color: #2e2f42;
-    margin-right: 76px;
+    
 }
 
 
